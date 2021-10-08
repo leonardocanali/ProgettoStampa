@@ -10,7 +10,11 @@ namespace ConsoleStampa
     {
         static void Main(string[] args)
         {
+
             Console.WriteLine("Ciao");
+
+            Console.WriteLine("Pinguini tattici nucleari");
+
             Console.ReadKey();
         }
     }
